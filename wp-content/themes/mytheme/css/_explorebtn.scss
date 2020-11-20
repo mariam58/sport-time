@@ -1,0 +1,52 @@
+.explore_button a{
+    font-size: 34px;
+    color: #fff;
+    text-transform: capitalize;
+    position: relative;
+    transition: 0.3s ease-in-out;
+}
+.explore_button a:hover{
+    color: #ec3643;
+}
+.explore_button{
+    img{
+        transition: 0.3s ease-in-out;
+    }
+    
+}
+.explore_button:hover{
+    img{
+        margin-left: 10px;
+        transition: 0.3s
+    }
+}
+
+
+
+
+.explore_button2{
+    background: $yellow;
+    width: 450px;
+    padding: 5px 20px;
+    a{
+        font-size: 50px;
+    color: $blue;
+    text-transform: capitalize;
+    position: relative;
+    
+    transition: 0.3s ease-in-out;
+    }
+     img{
+        transition: 0.3s ease-in-out;
+    }
+}
+.explore_button2:hover{
+    a{
+        color: #fff;
+    }
+    img{
+        margin-left: 10px;
+        transition: 0.3s
+    }
+    background: $red;
+}

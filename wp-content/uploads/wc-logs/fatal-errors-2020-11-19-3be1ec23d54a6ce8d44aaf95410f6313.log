@@ -1,0 +1,8 @@
+2020-11-19T12:28:15+00:00 CRITICAL Uncaught Error: Call to undefined function blog_info() in C:\xampp\htdocs\myproject\wp-content\themes\mytheme\front-page.php:84
+Stack trace:
+#0 C:\xampp\htdocs\myproject\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\myproject\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\myproject\wp-content\themes\mytheme\front-page.php on line 84
+

@@ -1,0 +1,272 @@
+# Translation of Themes - Twenty Nineteen in Georgian
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-02 07:39:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ka_GE\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Theme Name of the theme
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "სრული ზომა"
+
+#: image.php:56
+msgid "Page"
+msgstr "გვერდი"
+
+#: functions.php:192
+msgid "Add widgets here to appear in your footer."
+msgstr "დაამატეთ ვიჯეტი აქ საიტის სარდაფში გამოსაჩენათ."
+
+#: template-parts/footer/footer-widgets.php:12 functions.php:190
+msgid "Footer"
+msgstr "სარდაფი"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "ძირითადი ფერი"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ამ მისამართზე არაფერი არ მოიძებნა. სცადეთ გამოიყენოთ ძებნა."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ვაჰ! ის გვერდი ვერ მოიძებნა."
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "კომენტარების დატოვება გამორთულია."
+
+#: template-parts/header/site-branding.php:46 functions.php:61
+msgid "Social Links Menu"
+msgstr "სოციალური ბმულების მენიუ"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "შიგთავსზე გადასვლა"
+
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+#: template-parts/content/content-page.php:27 image.php:52
+msgid "Pages:"
+msgstr "გვერდები:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "დაწვრილებით<span class=“screen-reader-text”> „%s“</span>"
+
+#: comments.php:96
+msgid "Next"
+msgstr "შემდეგი"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "წინა"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "წინა ჩანაწერი"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "ვერაფერი ვერ მოიძებნა"
+
+#. translators: 1: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "მზად ხართ გამოაქვეყნოთ ახალი სტატია? <a href=\"%1$s\">დაიწყეთ აქედან.</a>."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "უკაცრავად, მაგრამ არცერთი ჩანაწერი არ ემთხვევა თქვენს საძიებო სიტყვებს. გთხოვთ, სცადოთ ახლიდან განსხვავებული სიტყვებით."
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "როგორც ჩანს, ჩვენ არ შეგვიძლია ვიპოვნოთ ის, რასაც თქვენ ეძებთ."
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "ზედა მენიუ"
+
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#: single.php:38
+msgid "Next Post"
+msgstr "შემდეგი ჩანაწერი"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "კომენტარი არ არის"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d კომენტარი"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "მეტი ჩანაწერის ნახვა"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "ავტორი: %s"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "წინა ჩანაწერი:"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "შემდეგი ჩანაწერი:"
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "უფრო ძველი ჩანაწერები"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "უფრო ახალი ჩანაწერები"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "ჭდეები:"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "დაწერილია:"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "დატოვეთ კომენტარი:<span class=\"screen-reader-text\"> %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "ავტორი:"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "არქივი:"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "%s არქივი:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "ჩანაწერის ტიპი არქივი: "
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "ყოველდღიური არქივი: "
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "თვის არქივი: "
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "წლის არქივი: "
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "ავტორიs არქივი: "
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "ჭდეს არქივი: "
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "კატეგორიიის არქივი: "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: template-parts/header/entry-header.php:32
+#: template-parts/content/content-page.php:41 inc/template-tags.php:120
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ჩასწორება: <span class=\"screen-reader-text\">%s</span>"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "ძირითადი"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "კომენტარები"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s პასუხი: &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "ერთი კომენტარი: &ldquo;%s&rdquo;"
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "დატოვეთ კომენტარი"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "შეუერთდით საუბარს"
+
+#: classes/class-twentynineteen-walker-comment.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "თქვენი კომენტარები ელოდება გააქტიურებას."
+
+#: classes/class-twentynineteen-walker-comment.php:87
+msgid "Edit"
+msgstr "ჩასწორება"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:79
+msgid "%1$s at %2$s"
+msgstr "%1$s: %2$s"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">წერს:</span>"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "the WordPress team"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
